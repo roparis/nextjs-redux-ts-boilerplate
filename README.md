@@ -31,7 +31,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## Generate new Component
+## Generate new Component [generate-react-cli](https://www.npmjs.com/package/generate-react-cli)
 
 To create a new Component run :
 
@@ -41,6 +41,8 @@ To create a new Component run :
 
 It will create a folder inside ./components with index.tsx, index.module.scss & index.test.tsx files with basic 
 boilerplate
+
+## Generate new Page [generate-react-cli](https://www.npmjs.com/package/generate-react-cli)
 
 To create a new Page run :
 
